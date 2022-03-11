@@ -1,0 +1,10 @@
+D:\1994qinGitHub\ILRuntimeClient\HotProject\HotFix_Project~\obj\Release\HotFix_Project.csproj.CoreCompileInputs.cache
+D:\StreamingAssets\HotFix_Project.dll
+D:\StreamingAssets\HotFix_Project.pdb
+D:\1994qinGitHub\ILRuntimeClient\HotProject\HotFix_Project~\obj\Release\HotFix_Project.csproj.AssemblyReference.cache
+D:\1994qinGitHub\ILRuntimeClient\HotProject\HotFix_Project~\obj\Release\HotFix_Project.dll
+D:\1994qinGitHub\ILRuntimeClient\HotProject\HotFix_Project~\obj\Release\HotFix_Project.pdb
+D:\1994qinGitHub\ILRuntimeClient\Assets\StreamingAssets\HotFix_Project.dll
+D:\1994qinGitHub\ILRuntimeClient\Assets\StreamingAssets\HotFix_Project.pdb
+D:\1994qinGitHub\ILRuntimeClient\Assets\AssetsPackage\ILRuntimedll\HotFix_Project.dll
+D:\1994qinGitHub\ILRuntimeClient\Assets\AssetsPackage\ILRuntimedll\HotFix_Project.pdb

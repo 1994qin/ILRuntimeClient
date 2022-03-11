@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 720632072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63f63fe67ec9902c36533ce8fb41219b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5df04412de2799434b7c772b181ceda6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/UI/Materials/ui_default.mat
+Dependencies: []

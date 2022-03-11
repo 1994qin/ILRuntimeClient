@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2933961337
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/12_jpeg.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: assetsmap_bytes.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: variantsmap_bytes.assetbundle
+      Dependencies: {}

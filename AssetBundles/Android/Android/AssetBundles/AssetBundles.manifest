@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 290370349
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ilruntimedll/hotfix_project_dll_bytes.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: ui/ani.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: ui/atlas.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: ui/fonts.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: ui/image.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: ui/materials.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: ui/prefabs.assetbundle
+      Dependencies:
+        Dependency_0: ui/ani.assetbundle
+        Dependency_1: ui/atlas.assetbundle
+        Dependency_2: ui/fonts.assetbundle
+        Dependency_3: ui/image.assetbundle
+        Dependency_4: ui/materials.assetbundle
+    Info_7:
+      Name: ui/12_jpeg.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: assetsmap_bytes.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: variantsmap_bytes.assetbundle
+      Dependencies: {}

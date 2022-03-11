@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "f6f32eb1-2463-48d6-afa6-bbdb9ab4b75a": {
+      "ProjectGuid": "f6f32eb1-2463-48d6-afa6-bbdb9ab4b75a",
+      "DisplayName": "HotFix_Project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
